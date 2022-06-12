@@ -17,7 +17,7 @@
 }
 
 .section-content {
-  @apply max-w-3xl mx-auto text-xl leading-9 text-center text-grayishBlue mb-10;
+  @apply max-w-3xl mx-auto leading-9 text-center text-grayishBlue mb-10;
 }
 
 .button-container {
